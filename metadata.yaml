@@ -1,0 +1,53 @@
+_repo: The-price-of-eggs_73936
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Summers, Leo
+    aliases:
+    - Summers, L.R.
+    - Summers, L. R.
+    - Summers, Leo Ramon
+    birthdate: 1925
+    deathdate: 1985
+    gutenberg_agent_id: '26735'
+    url: http://www.gutenberg.org/2009/agents/26735
+creator:
+  author:
+    agent_name: Garrett, Randall
+    aliases:
+    - Garrett, Gordon Randall
+    - Garret, Randall
+    - Barretton, Grandall
+    - Mitchell, Clyde
+    - Burke, Ralph
+    birthdate: 1927
+    deathdate: 1987
+    gutenberg_agent_id: '25267'
+    url: http://www.gutenberg.org/2009/agents/25267
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Randall_Garrett
+    - https://www.gutenberg.org/ebooks/author/53466
+description: ''
+gutenberg_issued: '2024-06-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73936'
+language: en
+pgterms:marc905: 20240507065709garrett
+pgterms:marc906: '1959'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aNew York, NY :$bZiff-Davis Publishing Company, $c1959.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Human-alien encounters -- Fiction'
+- !lcsh 'Life on other planets -- Fiction'
+- !lcsh 'Reproduction -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: The price of eggs
+url: http://www.gutenberg.org/ebooks/73936
